@@ -20,7 +20,7 @@
 * Microservicio Java con Spring-boot(se creará aplicación nativa)
 * Microservicio Python(políglota agregando javascript y java)
 * Microservicio Node(políglota agregando python y java)
-* Aplicación fron-end con React
+* Aplicación front-end con React
 * Aplicación front-end con Angular
  
  > **Se considerarán las funcionalidades requeridas frecuentemente:**
