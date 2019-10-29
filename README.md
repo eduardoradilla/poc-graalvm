@@ -98,7 +98,7 @@
 | [Crisanto Jerónimo García](crisanto.jeronimo.next@gmail.com) | Software Crafter | Backend |
 | [Daniel Ramírez Herrera](daniel.ramirez3.next@bbva.com) |  | DevSecOps |
 | [Gabriel Ramírez Cázares](gabriel.ramirez.cazarez.next@bbva.com) |  | Private Cloud |
-| [José Eduardo Radilla Mendoza](joseeduardo.radilla.next@bbva.com) |  | Backend |
+| [José Eduardo Radilla Mendoza](joseeduardo.radilla.next@bbva.com) | Solution Architect | Backend |
 | [José Daniel Hernández Osorio](josedaniel.hernandez.osorio.next@bbva.com) |  | Backend |
 | [José Salvador Cortés Figueroa](josesalvador.cortes.next@bbva.com) |  | Backend |
 | [Octavio Martínez José](octavio.martinez.jose.next@bbva.com) |  |  |
