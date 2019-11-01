@@ -77,7 +77,7 @@
 | Java | OpenJDK 1.8.0_232 | Lenguaje |
 | Python | 3.7.3 | Lenguaje |
 | Node | 10.16.3 | Runtime |
-| Go | 1.13.3 | Lenguaje |
+| Go | 1.13.4 | Lenguaje |
 | Micronaut | 1.2.5 | Framework |
 | Quarkus | 0.26.1 | Framework |
 | Spring-boot | 2.2.0 | Framework |
@@ -97,7 +97,7 @@
 | [Alejandro Jesús Torres Dimas](alejandrojesus.torres.dimas.next@bbva.com) |  |  |
 | [Crisanto Jerónimo García](crisanto.jeronimo.next@gmail.com) | Software Crafter | Backend |
 | [Daniel Ramírez Herrera](daniel.ramirez3.next@bbva.com) |  | DevSecOps |
-| [Gabriel Ramírez Cázares](gabriel.ramirez.cazarez.next@bbva.com) |  | Private Cloud |
+| [Gabriel Ramírez Cázares](gabriel.ramirez.cazarez.next@bbva.com) | Software Crafter | Private Cloud |
 | [José Eduardo Radilla Mendoza](joseeduardo.radilla.next@bbva.com) | Solution Architect | Backend |
 | [José Daniel Hernández Osorio](josedaniel.hernandez.osorio.next@bbva.com) |  | Backend |
 | [José Salvador Cortés Figueroa](josesalvador.cortes.next@bbva.com) |  | Backend |
